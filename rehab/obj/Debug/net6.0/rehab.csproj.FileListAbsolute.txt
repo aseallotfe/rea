@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\rehab\rehab\rehab\bin\Debug\net6.0\rehab.exe
+C:\Users\USER\Desktop\rehab\rehab\rehab\bin\Debug\net6.0\rehab.deps.json
+C:\Users\USER\Desktop\rehab\rehab\rehab\bin\Debug\net6.0\rehab.runtimeconfig.json
+C:\Users\USER\Desktop\rehab\rehab\rehab\bin\Debug\net6.0\rehab.dll
+C:\Users\USER\Desktop\rehab\rehab\rehab\bin\Debug\net6.0\rehab.pdb
+C:\Users\USER\Desktop\rehab\rehab\rehab\obj\Debug\net6.0\rehab.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\rehab\rehab\rehab\obj\Debug\net6.0\rehab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\rehab\rehab\rehab\obj\Debug\net6.0\rehab.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\rehab\rehab\rehab\obj\Debug\net6.0\rehab.AssemblyInfo.cs
+C:\Users\USER\Desktop\rehab\rehab\rehab\obj\Debug\net6.0\rehab.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\rehab\rehab\rehab\obj\Debug\net6.0\rehab.dll
+C:\Users\USER\Desktop\rehab\rehab\rehab\obj\Debug\net6.0\refint\rehab.dll
+C:\Users\USER\Desktop\rehab\rehab\rehab\obj\Debug\net6.0\rehab.pdb
+C:\Users\USER\Desktop\rehab\rehab\rehab\obj\Debug\net6.0\rehab.genruntimeconfig.cache
+C:\Users\USER\Desktop\rehab\rehab\rehab\obj\Debug\net6.0\ref\rehab.dll
